@@ -59,3 +59,4 @@ Updated UI components
 Optimized codebase
 Finalized changes
 Initial project setup
+Added core project structure
